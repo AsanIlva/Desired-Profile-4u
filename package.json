@@ -1,0 +1,21 @@
+{
+  "name": "desired-profile-4u",
+  "version": "1.0.0",
+  "description": "TDD using node and jest",
+  "main": "index.js",
+  "directories": {
+    "src": "src"
+  },
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1",
+    "shortid": "^2.2.16"
+  }
+}
